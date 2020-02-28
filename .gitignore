@@ -1,7 +1,4 @@
 node_modules/
-*/node_modules/
-/node_modules/
-/node_modules/puppeteer/.local-chromium/win64-722234/chrome-win/chrome.dll
-/node_modules/puppeteer/.local-chromium/win64-722234/chrome-win/interactive_ui_tests.exe
-node_modules/puppeteer/.local-chromium/win64-722234/chrome-win/chrome.dll
-node_modules/puppeteer/.local-chromium/win64-722234/chrome-win/interactive_ui_tests.exe
+example.png
+yarn.lock
+dist/
