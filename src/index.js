@@ -1,1 +1,2 @@
-const getMangaInfo = require('./getMangaInfo');
+const getMangaList = require('./getMangasList');
+//const getMangaInfo = require('./getMangaInfo');
